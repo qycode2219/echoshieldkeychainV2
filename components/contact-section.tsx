@@ -75,7 +75,7 @@ export default function ContactSection() {
                   </h4>
 
                   <p className="text-gray-600">
-                    Sekolah Menengah Kebangsaan Seri Keledang
+                    ECOKY
                   </p>
 
                 </div>
