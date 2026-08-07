@@ -16,7 +16,7 @@ const nunitoSans = Nunito_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'EchoShield Keychain v2.0',
+  title: 'EcoShield Keychain V2',
   description:
     'Satu peranti penghalau nyamuk mudah alih yang berasaskan minyak pati tumbuhan semula jadi dan direka bentuk dengan mengintegrasikan prinsip-prinsip sains, teknologi, kejuruteraan, dan matematik (STEM). Satu halaman yang memaparkan hasil ciptaan daripada pertandingan STEM.',
   generator: 'v0.app',
