@@ -51,7 +51,7 @@ export default function ContactSection() {
               <div>
 
                 <h3 className="text-2xl font-bold text-gray-900">
-                  SMK Seri Keledang
+                  ECOKY
                 </h3>
 
                 <p className="text-gray-500">
@@ -75,7 +75,7 @@ export default function ContactSection() {
                   </h4>
 
                   <p className="text-gray-600">
-                    ECOKY
+                    SMK Seri Keledang
                   </p>
 
                 </div>
