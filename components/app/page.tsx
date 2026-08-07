@@ -19,7 +19,7 @@ export default function Page() {
       <footer className="border-t border-border bg-secondary/40">
         <div className="mx-auto max-w-6xl px-4 py-6 text-center text-sm text-muted-foreground">
           {"\u00A9 "}
-          {new Date().getFullYear()} ECOKY SMK Seri Keledang, EcoShield Keychain V2 • Pertandingan Junior Innovathon 2026
+          {new Date().getFullYear()} ECOKY SMK Seri Keledang, EcoShield Keychain V2 • Pertandingan Junior Innovathon
         </div>
       </footer>
     </div>
