@@ -14,7 +14,7 @@ const demos = [
       "Menunjukkan struktur dalaman EcoShield Keychain V2 serta ruang untuk repellent pouch yang boleh diganti.",
   },
   {
-    image: "/demo-ingredients.png",
+    image: "/demo-ingredients.jpg",
     title: "Bahan Semula Jadi",
     description:
       "Menggunakan bahan semula jadi seperti serai wangi, pudina, cengkih dan kulit lemon sebagai penghalau serangga.",
