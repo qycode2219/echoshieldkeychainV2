@@ -13,18 +13,18 @@ import {
 const specs = [
   {
     icon: Ruler,
-    title: "Saiz",
-    value: "70 mm"
+    title: "Panjang",
+    value: "780 mm"
   },
   {
-    icon: Weight,
-    title: "Berat",
-    value: "35 g"
+    icon: Ruler,
+    title: "Lebar",
+    value: "520 mm"
   },
   {
     icon: Package,
     title: "Bahan",
-    value: "PLA+ & Beg Kalis Air/Pelindung"
+    value: "PLA+ "
   },
   {
     icon: Leaf,
