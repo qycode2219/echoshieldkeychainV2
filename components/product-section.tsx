@@ -14,12 +14,12 @@ const specs = [
   {
     icon: Ruler,
     title: "Panjang",
-    value: "780 mm"
+    value: "78 mm"
   },
   {
     icon: Ruler,
     title: "Lebar",
-    value: "520 mm"
+    value: "52 mm"
   },
   {
     icon: Package,
