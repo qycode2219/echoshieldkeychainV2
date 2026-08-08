@@ -79,34 +79,7 @@ export default function DemoSection() {
           ))}
 
         </div>
-
-        <div className="mt-20">
-
-          <h3 className="mb-8 text-center text-3xl font-bold">
-            Video Demonstrasi
-          </h3>
-
-          <div className="overflow-hidden rounded-3xl shadow-2xl">
-
-            <video
-              controls
-              className="w-full"
-              poster="/product-main.png"
-            >
-              <source
-                src="/demo.mp4"
-                type="video/mp4"
-              />
-
-              Browser anda tidak menyokong video.
-
-            </video>
-
-          </div>
-
-        </div>
-
-      </div>
+        
     </section>
   );
 }
