@@ -24,7 +24,7 @@ const specs = [
   {
     icon: Package,
     title: "Bahan",
-    value: "PLA+ "
+    value: "PLA "
   },
   {
     icon: Leaf,
